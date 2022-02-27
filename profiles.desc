@@ -1,0 +1,10 @@
+# MIPS Desktop
+mips		default/linux/mips/17.0/mipsel/multilib/n64/desktop			dev
+mips		default/linux/mips/17.0/mipsel/multilib/n64/desktop/gnome	dev
+mips		default/linux/mips/17.0/mipsel/multilib/n64/desktop/plasma	dev
+
+# Sell my underpants to systemd
+mips		default/linux/mips/17.0/mipsel/multilib/n64/systemd					dev
+mips		default/linux/mips/17.0/mipsel/multilib/n64/desktop/systemd			dev
+mips		default/linux/mips/17.0/mipsel/multilib/n64/desktop/gnome/systemd	dev
+mips		default/linux/mips/17.0/mipsel/multilib/n64/desktop/plasma/systemd	dev
